@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC');
+
+h2{
+    color: #7d62b2;
+}
+
+h4{
+    background-color: #ffd551;
+    font-size: 20px;
+    color:683f9c;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+p{
+    font-size: 18px;
+    color:aliceblue;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
